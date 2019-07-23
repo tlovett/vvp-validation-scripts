@@ -48,5 +48,5 @@ appdirs==1.4.3
 jinja2==2.10.1
 six==1.12.0
 pyinstaller==3.5
-mock
+mock==3.0.5
 openstack-heat
