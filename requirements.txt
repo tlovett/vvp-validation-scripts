@@ -38,7 +38,7 @@
 #
 
 pytest==5.0.1
-PyYAML==3.13
+PyYAML==5.1.1
 pytest-tap==2.3
 boltons==18.0.1
 xlsxwriter==1.1.2
